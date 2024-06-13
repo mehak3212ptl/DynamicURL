@@ -32,3 +32,4 @@ def full(request,ab,abc,abcd):
         'data3':abcd
     }
     return render (request,'home.html',data)
+#siddharth badkur ji
